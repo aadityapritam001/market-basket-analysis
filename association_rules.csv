@@ -1,0 +1,12 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'yogurt'}),frozenset({'whole milk'}),0.15059004617752694,0.5321849501359928,1.1615100423460805
+frozenset({'bottled water'}),frozenset({'whole milk'}),0.11236531554643407,0.5258103241296519,1.1475972247801696
+frozenset({'sausage'}),frozenset({'whole milk'}),0.10697793740379682,0.5193026151930261,1.1333939496206136
+frozenset({'yogurt'}),frozenset({'other vegetables'}),0.12031811185223192,0.4252039891205803,1.1290498294223583
+frozenset({'rolls/buns'}),frozenset({'whole milk'}),0.17855310415597742,0.5106382978723404,1.1144838102499344
+frozenset({'rolls/buns'}),frozenset({'other vegetables'}),0.14674191893278604,0.41966250917094644,1.1143354637250336
+frozenset({'whole milk'}),frozenset({'other vegetables'}),0.1913801949717804,0.4176931690929451,1.1091062487222754
+frozenset({'other vegetables'}),frozenset({'whole milk'}),0.1913801949717804,0.5081743869209809,1.1091062487222754
+frozenset({'tropical fruit'}),frozenset({'whole milk'}),0.11646998460749101,0.4983534577387486,1.0876717683458241
+frozenset({'root vegetables'}),frozenset({'whole milk'}),0.11313494099538225,0.4905450500556173,1.0706296781169071
+frozenset({'soda'}),frozenset({'whole milk'}),0.15110312981015905,0.48199672667757776,1.0519726990980953
